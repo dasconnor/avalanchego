@@ -23,7 +23,7 @@ var (
 				"unlockSchedule": [
 					{
 						"amount": 10000000000000000,
-						"locktime": 1633824000
+						"locktime": 1606858128
 					}
 				]
 			},
@@ -37,7 +37,7 @@ var (
 					},
 					{
 						"amount": 10000000000000000,
-						"locktime": 1633824000
+						"locktime": 1606858128
 					}
 				]
 			},
@@ -48,7 +48,7 @@ var (
 				"unlockSchedule": [
 					{
 						"amount": 10000000000000000,
-						"locktime": 1633824000
+						"locktime": 1606858128
 					}
 				]
 			}
